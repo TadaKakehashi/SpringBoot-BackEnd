@@ -77,4 +77,18 @@ URIs are a broad category that includes both URLs (Uniform Resource Locators) an
 
 -> They are often used in RESTful APIs
 
+----
 
+## Coupling
+Coupling refers to how closely connected different components or systems are.
+1) *Tight Coupling*: Describes a scenario where software componets are __highly dependent__ on each other
+3) *Loose Coupling*: Describes a scenario where software components are __less dependent__ on each other
+
+*Loosely Coupled Systems are Flexible and Maintain, as well as are Scalable* 
+
+#### *How to Achieve Loose Coupling:*
+-> Interfaces and Abstraction
+
+-> Dependency Injection
+
+-> Event Driven Architecture
